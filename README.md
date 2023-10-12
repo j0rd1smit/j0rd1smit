@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1>Hi 👋, I'm Jordi Smit</h1>
+<p>A passionate Machine Learning Engineer from the Netherlands</p>
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">🙂 <a href="https://jordismit.com/">Jordi Smit</a>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>⭐ Online Projects
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://jordismit.com/">jordismit.com</a></span> - <span style="color: #808080; text-decoration-color: #808080">personal blog</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://jordismit.com/tools/ai-based-transcription-in-the-browser/">Client side audio transcription in browser</a></span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://obsidian.md/plugins?search=Copilot%20auto%20completion/">Obsidian copilot auto completion</a></span> -<span style="color: #808080; text-decoration-color: #808080"> Obsidian plugin</span>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>📦 Open Source
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/j0rd1smit/obsidian-copilot-auto-completion">Obsidian copilot auto completion</a></span> - <span style="color: #808080; text-decoration-color: #808080">Github repo</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://github.com/j0rd1smit/todoist_react_agent">ToDoist LLM Agent</a></span> - <span style="color: #808080; text-decoration-color: #808080">LLM agent that can manage your todoist-based todo lists</span>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>👍 Contributions
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/getindata/kedro-azureml/pull/47">Kedro-AzureML</a></span> - <span style="color: #808080; text-decoration-color: #808080">Fix authorization issues on AzureML Compute Instance</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://github.com/Lightning-AI/lightning/pull/14368">PyTorch-lightning</a></span> - <span style="color: #808080; text-decoration-color: #808080">Fix memory corruption bug on M1 Macs</span>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>👨‍💻 Employer
+<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://xebia.com/digital-transformation/data-and-ai//">Xebia Data formaly known as GoDataDriven</a></span>  - <span style="color: #808080; text-decoration-color: #808080">Data and AI consultancy</span>
+<span style="color: #808080; text-decoration-color: #808080">┃       ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/godatadriven/Kedro-Azureml-Starter">Kedro-Azureml-Starter</a></span>  - <span style="color: #808080; text-decoration-color: #808080">A template and tutorial for AzureML-based Kedro projects</span>
+<span style="color: #808080; text-decoration-color: #808080">┃       ┗━━ </span><span style="font-weight: bold"><a href="https://github.com/godatadriven/azureml_experiment_tracking_tutorial">AzureML-experiment-tracking-tutorial</a></span>  - <span style="color: #808080; text-decoration-color: #808080">Intro into experiment tracking on AzureML</span>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>🎙️ Talks
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://www.youtube.com/watch?v=jB5LGEjFVvU">Slack bots 101</a></span> - <span style="color: #808080; text-decoration-color: #808080">PyData Berlin 2022</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://amsterdam2023.pydata.org/cfp/talk/N7Y7X7/">LLM Agents 101</a></span> - <span style="color: #808080; text-decoration-color: #808080">PyData Amsterdam 2023</span>
+<span style="color: #808080; text-decoration-color: #808080">┗━━ </span>✏️️ Blogs
+<span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://jordismit.com/blog/what-does-it-take-to-add-copilot-to-obsidian/">What does it take to add Copilot to Obsidian?</a></span>
+<span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://jordismit.com/blog/what-does-it-take-to-let-chatgpt-manage-my-todoist-tasks/">What does it take to let ChatGPT manage my Todoist tasks?</a></span>
+<span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://jordismit.com/blog/the-surprising-impact-of-kedros-data-catalog/">The Surprising Impact of Kedro&#x27;s&#x27; Data Catalog</a></span>
+<span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://jordismit.com/blog/adding-application-insight-based-monitoring-to-fast-api/">Adding Application Insight Based Monitoring to Fast API</a></span>
+<span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://jordismit.com/blog/diy-auto-grad-engine-a-step-by-step-guide-to-calculating-derivatives-automatically/">DIY auto-grad Engine</a></span>
+<span style="color: #808080; text-decoration-color: #808080">    ┗━━ </span><span style="font-weight: bold"><a href="https://jordismit.com/blog/python-dataclass-from-scratch/">Python Dataclass From Scratch</a></span>
 
-<!--
-**j0rd1smit/j0rd1smit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span style="color: #008000; text-decoration-color: #008000">Follow me on </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://www.linkedin.com/in/jordi-smit-8778b51b4">Linkedin</a></span>
+</pre>
