@@ -37,7 +37,9 @@ def main():
     blog_tree.add("[bold link=https://jordismit.com/blog/diy-auto-grad-engine-a-step-by-step-guide-to-calculating-derivatives-automatically/]DIY auto-grad Engine[/]")
     blog_tree.add("[bold link=https://jordismit.com/blog/python-dataclass-from-scratch/]Python Dataclass From Scratch[/]")
 
-
+    publications_tree = tree.add("🎓 Publications", guide_style="bright_black")
+    publications_tree.add("[bold link=https://pure.tudelft.nl/ws/portalfiles/portal/99506618/R2AW_paper_6_1.pdf/]PEBL: Pessimistic ensembles for offline deep reinforcement learning[/]")
+    publications_tree.add("[bold link=https://dl.acm.org/doi/abs/10.1145/3387940.3391464/]Offside: Learning to identify mistakes in boundary conditions[/]")
 
     console.print(tree)
     console.print("")
