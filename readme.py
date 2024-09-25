@@ -1,5 +1,6 @@
 from rich.console import Console
 from rich.tree import Tree
+
 def main():
 
     console = Console(record=True, width=100)
@@ -7,9 +8,10 @@ def main():
     tree = Tree("🙂 [link=https://jordismit.com/]Jordi Smit", guide_style="bold bright_black")
 
     online_tree = tree.add("⭐ Online Projects", guide_style="bright_black")
-    online_tree.add("[bold link=https://jordismit.com/]jordismit.com[/] - [bright_black]personal blog")
-    online_tree.add("[bold link=https://jordismit.com/tools/ai-based-transcription-in-the-browser/]Client side audio transcription in browser[/]")
-    online_tree.add("[bold link=https://obsidian.md/plugins?search=Copilot%20auto%20completion/]Obsidian copilot auto completion[/] -[bright_black] Obsidian plugin")
+    online_tree.add("[bold link=https://jordismit.com/]jordismit.com[/] - [bright_black] Blog")
+    online_tree.add("[bold link=https://cascadia.jordismit.com/]Computer vision based game score calculator for Cascadia[/] - [bright_black] Web App")
+    online_tree.add("[bold link=https://jordismit.com/tools/ai-based-transcription-in-the-browser/]Client side audio transcription in browser[/] - [bright_black] Web App")
+    online_tree.add("[bold link=https://obsidian.md/plugins?search=Copilot%20auto%20completion/]Obsidian copilot auto completion[/] - [bright_black] Obsidian plugin")
 
     open_source_tree = tree.add("📦 Open Source", guide_style="bright_black")
     open_source_tree.add("[bold link=https://github.com/j0rd1smit/obsidian-copilot-auto-completion]Obsidian copilot auto completion[/] - [bright_black]Github repo")
@@ -26,10 +28,12 @@ def main():
     xebia_tree.add("[bold link=https://github.com/godatadriven/azureml_experiment_tracking_tutorial]AzureML-experiment-tracking-tutorial[/]  - [bright_black]Intro into experiment tracking on AzureML")
 
     talk_tree = tree.add("🎙️ Talks", guide_style="bright_black")
+    talk_tree.add("[bold link=https://www.youtube.com/watch?v=-rixfb4LWiY]LLM Agents 101[/] - [bright_black]PyData Amsterdam 2023")
     talk_tree.add("[bold link=https://www.youtube.com/watch?v=jB5LGEjFVvU]Slack bots 101[/] - [bright_black]PyData Berlin 2022")
-    talk_tree.add("[bold link=https://amsterdam2023.pydata.org/cfp/talk/N7Y7X7/]LLM Agents 101[/] - [bright_black]PyData Amsterdam 2023")
 
     blog_tree = tree.add("✏️️ Blogs", guide_style="bright_black")
+    blog_tree.add("[bold link=https://jordismit.com/blog/how-to-upload-pre-annotations-to-roboflow//]How to Upload (Pre)-Annotations to Roboflow[/]")
+    blog_tree.add("[bold link=https://jordismit.com/blog/how-to-avoid-orientation-bugs-in-computer-vision-labeling/]How to avoid orientation bugs in Computer Vision labeling?[/]")
     blog_tree.add("[bold link=https://jordismit.com/blog/what-does-it-take-to-add-copilot-to-obsidian/]What does it take to add Copilot to Obsidian?[/]")
     blog_tree.add("[bold link=https://jordismit.com/blog/what-does-it-take-to-let-chatgpt-manage-my-todoist-tasks/]What does it take to let ChatGPT manage my Todoist tasks?[/]")
     blog_tree.add("[bold link=https://jordismit.com/blog/the-surprising-impact-of-kedros-data-catalog/]The Surprising Impact of Kedro's' Data Catalog[/]")
