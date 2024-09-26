@@ -14,7 +14,7 @@ def main():
     online_tree.add("[bold link=https://obsidian.md/plugins?search=Copilot%20auto%20completion]Obsidian copilot auto completion[/] - [bright_black] Obsidian plugin")
 
     open_source_tree = tree.add("📦 Open Source", guide_style="bright_black")
-    open_source_tree.add("[bold link=https://github.com/j0rd1smit/obsidian-copilot-auto-completion]Obsidian copilot auto completion[/] - [bright_black]Github repo")
+    open_source_tree.add("[bold link=https://github.com/j0rd1smit/obsidian-copilot-auto-completion?tab=readme-ov-file#copilot-like-auto-completion-for-obsidian]Obsidian copilot auto completion[/] - [bright_black]Github repo")
     open_source_tree.add("[bold link=https://github.com/j0rd1smit/todoist_react_agent]ToDoist LLM Agent[/] - [bright_black]LLM agent that can manage your todoist-based todo lists")
 
     contrib_tree = tree.add("👍 Contributions", guide_style="bright_black")
