@@ -11,7 +11,7 @@ def main():
     online_tree.add("[bold link=https://jordismit.com/]jordismit.com[/] - [bright_black] Blog")
     online_tree.add("[bold link=https://cascadia.jordismit.com/]Computer vision based game score calculator for Cascadia[/] - [bright_black] Web App")
     online_tree.add("[bold link=https://jordismit.com/tools/ai-based-transcription-in-the-browser/]Client side audio transcription in browser[/] - [bright_black] Web App")
-    online_tree.add("[bold link=https://obsidian.md/plugins?search=Copilot%20auto%20completion/]Obsidian copilot auto completion[/] - [bright_black] Obsidian plugin")
+    online_tree.add("[bold link=https://obsidian.md/plugins?search=Copilot%20auto%20completion]Obsidian copilot auto completion[/] - [bright_black] Obsidian plugin")
 
     open_source_tree = tree.add("📦 Open Source", guide_style="bright_black")
     open_source_tree.add("[bold link=https://github.com/j0rd1smit/obsidian-copilot-auto-completion]Obsidian copilot auto completion[/] - [bright_black]Github repo")
